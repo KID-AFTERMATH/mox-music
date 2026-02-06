@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+yt-dlp
+pyyaml
+python-magic
+mutagen
+requests
