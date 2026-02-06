@@ -5,3 +5,5 @@ pyyaml
 python-magic
 mutagen
 requests
+psutil
+qrcode[pil]
