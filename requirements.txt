@@ -7,3 +7,12 @@ mutagen
 requests
 psutil
 qrcode[pil]
+spotipy
+pytube
+python-dotenv
+pydub
+ffmpeg-python
+pygame
+pandas
+numpy
+Pillow
